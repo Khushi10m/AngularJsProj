@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body
+{
+    font-family: sans-serif;
+}
+.collapse{
+display: flex;
+justify-content: end;
+align-content:end;
+margin-right: 2rem;
+}
+.collapse ul{
+list-style: none;
+font-size: 20px; 
+}
+.collapse li a{
+    font-family: inherit;
+    font-weight: 500;
+    margin: 0 15px;
+}
+/* .school-board{
+    background-image: url(https://github.com/Khushi10m/mySchool/blob/main/boad.png);
+} */
